@@ -53,19 +53,19 @@ Each slot has an IR sensor. When a car enters or exits, the NodeMCU sends the up
 ---
 ## 📷Snapshots
 ### 🔐 Login Page
-![Login](screenshots/login.png)
+![Login](media/login.jpg)
 
 ### 📝 Signup Page
-![Signup](screenshots/signup.png)
+![Signup](media/signup.jpg)
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+![Home](media/home.jpg)
 
 ### 🚘 Slot Availability Page
-![Slots](screenshots/slots.png)
+![Slots](media/slots.jpg)
 
 ### 🚪 Exit Page
-![Exit](screenshots/exit.png)
+![Exit](media/exit.jpg)
 
 ## ☁️ Firebase Backend
 
